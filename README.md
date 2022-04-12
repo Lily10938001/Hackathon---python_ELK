@@ -2,6 +2,7 @@
 
 這是由數據驅動與集先鋒科技共同主辦的黑客松競賽
 - 活動網誌 : https://www.accupass.com/event/2204061448029829370060
+- 成果文章 : https://blog.bimap.com.tw/2022/04/11/bimap-elk-%E9%BB%91%E5%AE%A2%E6%9D%BE
 - 比賽時長3小時,題目如下:
 
 ## 1. 將所提供的2天份Apache log檔,依照以下四點指示進行計算(必須用PYTHON!!)後各自產生一份CSV檔
